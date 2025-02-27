@@ -28,3 +28,12 @@ This frontend application provides a user-friendly interface for analyzing publi
    ```bash
    npm run dev
    ```
+## Screenshots
+### Tender Analysis Page
+<img src="https://i.imgur.com/zzRH5id.png" width="700">
+
+### Locality Tender Analysis Page
+<img src="https://i.imgur.com/HArk6Dm.png" width="700">
+
+### Average Prices Page
+<img src="https://i.imgur.com/PqkLfS4.png" width="700">
